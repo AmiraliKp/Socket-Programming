@@ -1,2 +1,5 @@
 # Socket-Programming
-![Test Image 1](https://github.com/AmiraliKp/Socket-Programming/test.png)
+
+To test the program from Git Bash:
+- java WoWserver WoW.txt 53
+- java WoWclient localhost 53
